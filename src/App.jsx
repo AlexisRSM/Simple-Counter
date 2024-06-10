@@ -8,8 +8,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="Maind d-flex justify-content-center">
-      <h1>Hello</h1>
+    <div className="Main w-25 m-auto">
+
       {<SecondsCounter />}
     </div>
 

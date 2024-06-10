@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+.Counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+    width: 500px;
+    background-color: #0000007a;
+    color: #00ff00;
+    font-family: 'Orbitron', monospace;
+    font-size: 6rem;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.time-part {
+    margin: 0 5px;
+    padding: 0 10px;
+    background-color: #222;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(0, 0, 0);
+}
+
+.separator {
+    margin: 0 5px;
+    padding: 0 5px;
+    color: #00ff00;
+}
