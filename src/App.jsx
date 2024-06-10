@@ -9,7 +9,6 @@ function App() {
 
   return (
     <div className="Main w-25 m-auto">
-
       {<SecondsCounter />}
     </div>
 
